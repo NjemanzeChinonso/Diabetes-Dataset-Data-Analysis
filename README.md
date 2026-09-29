@@ -4,7 +4,7 @@ An interactive Excel dashboard that analyses **15,000 patient records** to show 
 
 Built with **Excel Tables, PivotTables, PivotCharts, Slicers and GETPIVOTDATA-driven KPI cards**.
 
-> **Author:** [Your Name] | [LinkedIn profile link] | [Email or portfolio link]
+> **Author:** [Njemanze Chinonso Reginald] | [www.linkedin.com/in/chinonsonjemanze] | [chinonsonjemanze@gmail.com]
 
 ![Dashboard preview](images/dashboard.png)
 <!-- Add a screenshot of the Dashboard sheet at images/dashboard.png -->
@@ -117,5 +117,4 @@ diabetes-risk-dashboard/
 
 ## Contact
 
-Questions or feedback are welcome. Connect with me on [LinkedIn](#) or open an issue in this repository.
-
+Questions or feedback are welcome. Connect with me on [www.linkedin.com/in/chinonsonjemanze](#) or open an issue in this repository.
